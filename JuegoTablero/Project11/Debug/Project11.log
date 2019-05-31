@@ -1,0 +1,6 @@
+﻿  Tablero.cpp
+c:\users\david\desktop\juegoscrabble\project11\tablero.h(14): warning C4309: 'inicializando': truncamiento de valor constante
+c:\users\david\desktop\juegoscrabble\project11\tablero.h(15): warning C4309: 'inicializando': truncamiento de valor constante
+c:\users\david\desktop\juegoscrabble\project11\tablero.cpp(5): warning C4309: '=': truncamiento de valor constante
+c:\users\david\desktop\juegoscrabble\project11\tablero.cpp(6): warning C4309: '=': truncamiento de valor constante
+  Project11.vcxproj -> C:\Users\david\Desktop\JuegoScrabble\Debug\Project11.exe

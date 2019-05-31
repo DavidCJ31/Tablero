@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Jugador" Collapsed="true">
+    <Position X="5.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAQAgIAiQAAkCAAAjAAIBAAiIIEAAhAIACHgBgQ=</HashCode>
+      <FileName>Jugador.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Juego" Collapsed="true">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAACAgAAIQAEQEBUAgEiQAwAgIBCCCRACBAggAIJAAQ=</HashCode>
+      <FileName>Juego.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Fichas" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAIEIAAAAAABAAAgCQAgAEAAIEBAAEAAAAQAEQAAI=</HashCode>
+      <FileName>Fichas.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tablero" Collapsed="true">
+    <Position X="7" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAABQAAAAACAAAIgCAAAACAAEIAAAAEAoBAAAgAAQ=</HashCode>
+      <FileName>Tablero.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EstrategiaMovimiento">
+    <Position X="1.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAAAAAAAQAAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EstrategiaMovimiento.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MovimientoIzquierda" Collapsed="true">
+    <Position X="2.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CgAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MovimientoIzquierda.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MovimientoDerecha" Collapsed="true">
+    <Position X="0.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAAAAAAAAQAAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MovimientoDerecha.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
